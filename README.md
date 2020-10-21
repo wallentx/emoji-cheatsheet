@@ -1,5 +1,5 @@
-# emoji-cheatsheet
-emoji and their unicode characters
+# Emoji Cheatsheet
+Emoji and their unicode characters - or at least the ones that are printable in my terminal via: `printf "\U000<unicode>"`
 
 | Name | Emoji | Unicode |
 |:-----:|:--------------:|:-----:|
